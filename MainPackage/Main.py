@@ -14,14 +14,11 @@ from MoviePackage.PerformanceClass import *
 from MoviePackage.RatingClass import *
 
 
-movieCast = Cast("Shrek")
+movieCast = Cast("Shrek") #Instantiate Cast
 
-'''
-movieBox = boxPerformance("50")
-movieBox.movieCheck("Shrek")
-'''
+movieBox = boxPerformance("Shrek")  #Instantiate boxPerformance
+print(movieBox.__str__())
 
-
-movieRating = Rating("Shrek", 42)
+movieRating = Rating("Shrek", 88)   #Instantiate Rating
 print(movieRating.__str__())
 movieRating.setRating(-5)

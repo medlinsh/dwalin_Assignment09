@@ -26,7 +26,7 @@ class Rating():
         self.validateRating(rating)
        
     def __repr__(self):
-        return "Score: " + self.movieTitle + self.rating
+        return "Critics Rating: " + self.rating
     
     def __str__(self):
-        return "Score: " + self.movieTitle + str(self.rating) 
+        return "Critics Rating: " + str(self.rating) 
