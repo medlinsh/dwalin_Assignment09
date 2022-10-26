@@ -1,5 +1,5 @@
 '''
-#Name: Seth Medlin, Addyson Stansel, Ryan Lupton, Tyra __
+#Name: Seth Medlin, Addyson Stansel, Ryan Lupton, Tyra Crandell
 #email: luptonrj@mail.uc.edu
 #Assignment: Assignment 09
 #Course: IS 4010
